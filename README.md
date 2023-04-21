@@ -11,11 +11,11 @@ API endpoints for api_url app (Using Postman desktop app preferred):
 
 2. Get Short URL Details:
 - GET /list/{shortenedID}
-(Shortened ID is the URL after 127.0.0.1:8000/ and before : in the response body from the add request)
+- (Shortened ID is the URL after 127.0.0.1:8000/ and before : in the response body from the add request)
 
 3. Delete Short URL:
-DELETE /delete/{shortenedID}
-Response body: 200 OK
+- DELETE /delete/{shortenedID}
+- Response body: 200 OK
 
 
 4. OPTIONAL List All
