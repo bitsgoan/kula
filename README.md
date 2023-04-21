@@ -28,7 +28,7 @@ API endpoints for api_url app (Using Postman desktop app preferred):
 ## Screenshots for usage:
 
 1. Create
-![Create Screenshot](https://drive.google.com/file/d/1mqNMqWXkKiZwZnyqJGwQ9vUSFaQA3X5r/view?usp=sharing)
+![Create Screenshot] (https://drive.google.com/file/d/1mqNMqWXkKiZwZnyqJGwQ9vUSFaQA3X5r/view?usp=sharing)
 
 2. Read
 ![Read Screenshot](https://drive.google.com/file/d/1rrURbrK4lc32_i0xEAArmawUwEDQuzfI/view?usp=share_link)
