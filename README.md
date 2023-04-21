@@ -28,12 +28,6 @@ API endpoints for api_url app (Using Postman desktop app preferred):
 ## Screenshots for usage:
 
 1. Create (https://drive.google.com/file/d/1p_rNE3Brn0lYqzpOVQSaqwg2yTifv6ik/view?usp=share_link)
-
-2. Read
-![Read Screenshot](https://raw.githubusercontent.com/bitsgoan/kula/master/Screenshot%20from%202023-04-22%2001-26-33.png)
-
-3. Delete
-![Delete Screenshot](https://drive.google.com/file/d/14qyHf8aULb7BQIOXS1pCu1dqEPZGCyq8/view?usp=share_link)
-
-4. List All
-![List All Screenshot](https://drive.google.com/file/d/1p_rNE3Brn0lYqzpOVQSaqwg2yTifv6ik/view?usp=share_link)
+2. Read (https://raw.githubusercontent.com/bitsgoan/kula/master/Screenshot%20from%202023-04-22%2001-26-33.png)
+3. Delete (https://drive.google.com/file/d/14qyHf8aULb7BQIOXS1pCu1dqEPZGCyq8/view?usp=share_link)
+4. List All (https://drive.google.com/file/d/1p_rNE3Brn0lYqzpOVQSaqwg2yTifv6ik/view?usp=share_link)
