@@ -31,3 +31,7 @@ API endpoints for api_url app (Using Postman desktop app preferred):
 2. Read (https://raw.githubusercontent.com/bitsgoan/kula/master/Screenshot%20from%202023-04-22%2001-26-33.png)
 3. Delete (https://drive.google.com/file/d/14qyHf8aULb7BQIOXS1pCu1dqEPZGCyq8/view?usp=share_link)
 4. List All (https://drive.google.com/file/d/1p_rNE3Brn0lYqzpOVQSaqwg2yTifv6ik/view?usp=share_link)
+
+## More
+
+The URL shortener works on UUID4 serial generation, and is a 7 character long string. 
