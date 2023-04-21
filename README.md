@@ -28,4 +28,4 @@ API endpoints for api_url app (Using Postman desktop app preferred):
 ## Screenshots for usage:
 
 1. Create
-https://github.com/bitsgoan/kula/blob/master/Screenshot%20from%202023-04-22%2001-25-19.png
+!(https://github.com/bitsgoan/kula/blob/master/Screenshot%20from%202023-04-22%2001-25-19.png)
